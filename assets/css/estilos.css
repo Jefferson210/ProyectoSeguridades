@@ -1,4 +1,4 @@
-.chat_wrapper {
+.chat_box {
 	width: 500px;
 	margin-right: auto;
 	margin-left: auto;
@@ -7,14 +7,14 @@
 	padding: 10px;
 	font: 12px 'lucida grande',tahoma,verdana,arial,sans-serif;
 }
-.chat_wrapper .message_box {
+.chat_box .message_box {
 	background: #FFFFFF;
 	height: 150px;
 	overflow: auto;
 	padding: 10px;
 	border: 1px solid #999999;
 }
-.chat_wrapper .panel input{
+.chat_box .panel input{
 	padding: 2px 2px 2px 5px;
 }
 .system_msg{color: #BDBDBD;font-style: italic;}
